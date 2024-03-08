@@ -1,0 +1,3 @@
+P:\CMake\bin\cmake.exe -E rm -f CMakeFiles\31_Homework_2.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\31_Homework_2.dir/objects.a @CMakeFiles\31_Homework_2.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\31_Homework_2.dir/objects.a -Wl,--no-whole-archive -o 31_Homework_2.exe -Wl,--out-implib,lib31_Homework_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\31_Homework_2.dir\linkLibs.rsp
